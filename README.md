@@ -41,7 +41,7 @@ The instruction format for the 16 bit version:
 ---
 
 ## **📚 MIPS Stages Breakdown**
-The processor follows a **5-stage pipeline**, each responsible for specific tasks:
+The processor follows a **5-stage execution for each instruction**, each being responsible for specific tasks:
 
 1. **Instruction Fetch (IF)**
    - Retrieves the instruction from memory.
