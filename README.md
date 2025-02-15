@@ -1,5 +1,4 @@
 ### **📌 16-Bit MIPS Processor**
-*
 This simple, harvad architecture single-cycle processor is the result of a semester of computer architecture study, and is an original implementation of the processor. 
 The pipelined version of this processor won't be included,
 since it consists of just adding intermediary registers in-between each stage, and does not contribute to any significant modifications that affect the functioning of the processor.
@@ -34,7 +33,7 @@ The datapath for the 32 bit version used at starting point:
 ---
 
 ### The instruction format for the instruction types
-A step-by-step guide on how users interact with the platform:
+The instruction format for the 16 bit version:
 
 ![InstructionFormat](./showcase/iformat.png)
 
